@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.159738e0.css",
-    "main.js": "/static/js/main.fffacd78.js",
+    "main.css": "/static/css/main.1e1a888c.css",
+    "main.js": "/static/js/main.d89fa488.js",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
-    "static/media/pro1-edt.jpg": "/static/media/pro1-edt.fa6c533397b6dba6a84f.jpg",
+    "static/media/profile.jpg": "/static/media/profile.77e192f29b9715bd9153.jpg",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.d93bcbbb0fbfad39d905.eot",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.aae41ea25bd0dde9f796.ttf",
@@ -43,11 +43,11 @@
     "static/media/datacamp.webp": "/static/media/datacamp.3c3f7d8f8cc8a631e08a.webp",
     "static/media/education.svg": "/static/media/education.d5cc42f042227db12468.svg",
     "index.html": "/index.html",
-    "main.159738e0.css.map": "/static/css/main.159738e0.css.map",
-    "main.fffacd78.js.map": "/static/js/main.fffacd78.js.map"
+    "main.1e1a888c.css.map": "/static/css/main.1e1a888c.css.map",
+    "main.d89fa488.js.map": "/static/js/main.d89fa488.js.map"
   },
   "entrypoints": [
-    "static/css/main.159738e0.css",
-    "static/js/main.fffacd78.js"
+    "static/css/main.1e1a888c.css",
+    "static/js/main.d89fa488.js"
   ]
 }
